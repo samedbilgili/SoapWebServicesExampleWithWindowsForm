@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\SoaForm\SoaForm\bin\Debug\SoaForm.exe.config
+C:\Users\DELL\source\repos\SoaForm\SoaForm\bin\Debug\SoaForm.exe
+C:\Users\DELL\source\repos\SoaForm\SoaForm\bin\Debug\SoaForm.pdb
+C:\Users\DELL\source\repos\SoaForm\SoaForm\obj\Debug\SoaForm.Form1.resources
+C:\Users\DELL\source\repos\SoaForm\SoaForm\obj\Debug\SoaForm.Properties.Resources.resources
+C:\Users\DELL\source\repos\SoaForm\SoaForm\obj\Debug\SoaForm.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\SoaForm\SoaForm\obj\Debug\SoaForm.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SoaForm\SoaForm\obj\Debug\SoaForm.exe
+C:\Users\DELL\source\repos\SoaForm\SoaForm\obj\Debug\SoaForm.pdb
+C:\Users\DELL\source\repos\SoaForm\SoaForm\obj\Debug\SoaForm.csprojAssemblyReference.cache

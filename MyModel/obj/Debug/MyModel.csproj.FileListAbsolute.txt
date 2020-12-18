@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\SoaForm\MyModel\bin\Debug\MyModel.dll.config
+C:\Users\DELL\source\repos\SoaForm\MyModel\bin\Debug\MyModel.dll
+C:\Users\DELL\source\repos\SoaForm\MyModel\bin\Debug\MyModel.pdb
+C:\Users\DELL\source\repos\SoaForm\MyModel\bin\Debug\EntityFramework.dll
+C:\Users\DELL\source\repos\SoaForm\MyModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\SoaForm\MyModel\bin\Debug\EntityFramework.xml
+C:\Users\DELL\source\repos\SoaForm\MyModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\source\repos\SoaForm\MyModel\obj\Debug\MyModel.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SoaForm\MyModel\obj\Debug\MyModel.csproj.CopyComplete
+C:\Users\DELL\source\repos\SoaForm\MyModel\obj\Debug\MyModel.dll
+C:\Users\DELL\source\repos\SoaForm\MyModel\obj\Debug\MyModel.pdb
